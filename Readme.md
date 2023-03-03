@@ -2,7 +2,7 @@
 ![This is an image](http://cloud47.p80.com.br:8080/g2mob/resources/img/g2-logo.png)
 
 ## Links de Downloads:<br/>
-Basta clicar no hiperlink nomeado com o projeto, que você será automaticamente redirecionado ao download do projeto desejado, se desejar acessar os repositórios,<a href="url"> clique aqui.</a><br/>
+Basta clicar no hiperlink nomeado com o projeto, que você será automaticamente redirecionado ao download do projeto desejado, se desejar acessar os repositórios,<a href="https://github.com/G2SistemasGit?tab=repositories"> clique aqui.</a><br/>
 
 **Mobile**<br/>
 <a href="url">G2FVApk</a><br/>
